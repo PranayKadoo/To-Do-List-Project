@@ -1,0 +1,53 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: papyrus;
+    background-color: rgb(215, 252, 240);
+}
+.fontc1{
+    color: rgb(255, 102, 46);
+}
+.child1{
+    text-align: center;
+}
+.child2{
+    text-align: center;
+}
+#child3{
+    text-align: center;
+    color: rgb(255, 102, 46);
+
+}
+.child4{
+    text-align: center;
+}
+
+.child2 button{
+    font-family: papyrus;
+    width:3vw;
+    height: 3vw;
+    font-size: 1vw;
+    text-align: center;
+    background-color:rgb(152, 248, 232);
+    color: rgb(255, 102, 46);
+}
+#child3 button{
+    background-color:rgb(152, 248, 232);
+    color: rgb(255, 102, 46);
+    text-align: center;
+}
+.child4 button{
+    font-family: papyrus;
+    width:20vw;
+    height: 3vw;
+    font-size: 2vw;
+    text-align: center;
+    background-color: rgb(152, 248, 232);
+    color: rgb(255, 102, 46);
+
+}
+#text{
+    width:40vw;
+    height:3vw;
+    font-size: 2vw;
+}
